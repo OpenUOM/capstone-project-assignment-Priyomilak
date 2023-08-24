@@ -78,7 +78,17 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 50
+      "points": 10
+    },
+    {
+      "name": "Dummy Test",
+      "setup": "npm install",
+      "run": "file=./test/dummy.test.js npm run test --prefix ./frontend",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     },
     {
       "name": "Frontend Add Student",
@@ -87,7 +97,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 20,
+      "timeout": 10,
       "points": 10
     },
     {
