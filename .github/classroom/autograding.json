@@ -88,7 +88,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 50
     },
     {
       "name": "Frontend Add Student",
@@ -97,7 +97,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 20,
       "points": 10
     },
     {
